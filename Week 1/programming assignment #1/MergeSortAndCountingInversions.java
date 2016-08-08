@@ -17,6 +17,7 @@ public class MergeSortAndCountingInversions {
     {
         auxArray = new int[array.length];
         long number = sortAndCountInversions(array, 0, array.length - 1);
+        System.out.println(number);
         // display(array);
         return number;
     }
