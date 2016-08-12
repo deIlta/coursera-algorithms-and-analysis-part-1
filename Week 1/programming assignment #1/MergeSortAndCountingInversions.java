@@ -6,9 +6,6 @@ import java.io.FileReader;
 import java.util.Arrays;
 import java.util.Scanner;
 
-/**
- * Created by comp on 07.08.2016.
- */
 public class MergeSortAndCountingInversions {
 
     private int[] auxArray;      // auxiliary array;
